@@ -1,0 +1,7 @@
+{
+
+  "GPIO_BME280_SDA": 2,
+  "GPIO_BME280_SCL": 3,
+  "GPIO_BME280_ADDR": 118,
+  "GPIO_LIT": 4
+}
